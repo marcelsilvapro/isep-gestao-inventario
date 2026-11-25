@@ -1,0 +1,18 @@
+# Configuração local da base de dados (credenciais privadas)
+scripts/db_config.local.php
+.env
+
+# Ficheiros temporários e logs
+*.log
+*.tmp
+tempCodeRunnerFile.*
+
+# IDEs e editores
+.vscode/
+.idea/
+*.sublime-*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
