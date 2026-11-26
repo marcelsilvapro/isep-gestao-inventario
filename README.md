@@ -21,14 +21,6 @@ Projeto académico realizado em grupo no âmbito da unidade curricular **DEAPC (
 
 ---
 
-## A Minha Contribuição
-
-- Desenvolvimento da **página inicial (`Index.html`)** e da **folha de estilos principal (`styles/style.css`)**.
-- Implementação do **sistema de autenticação e sessões PHP** (`login.php`, `logout.php`) e proteção de acesso por perfil nas páginas de utilizador e administrador.
-- Desenvolvimento da **Área de Utilizador (`uti1.php`)** e integração entre as interfaces e os *scripts* de ligação à base de dados.
-
----
-
 ## Estrutura do Repositório
 
 ```text
